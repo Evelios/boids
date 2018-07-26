@@ -1,0 +1,19 @@
+{
+  "name": "boids",
+  "version": "1.0.0",
+  "description": "",
+  "main": "boids.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evelios/boids.git"
+  },
+  "author": "Thomas Waters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Evelios/boids/issues"
+  },
+  "homepage": "https://github.com/Evelios/boids#readme"
+}
