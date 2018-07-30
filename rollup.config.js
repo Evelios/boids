@@ -8,11 +8,11 @@ const plugins = [
 
 export default {
   plugins,
-  input: './flock.js',
+  input: './boid.js',
   output: [
     // UMD Build
     {
-      name: 'Boids',
+      name: 'Boid',
       file: 'build.js',
       format: 'iife',
       interop: false,

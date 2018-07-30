@@ -13,7 +13,7 @@ class Flock {
     return [
       this.bbox.x + Math.random() * this.bbox.width,
       this.bbox.y + Math.random() * this.bbox.height,
-    ]
+    ];
   }
 }
 
